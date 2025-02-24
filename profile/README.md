@@ -1,6 +1,6 @@
 # 프로젝트 소개
 
-<img src ='frontend/src/assets/images/logo.gif' width="450" style="margin:1rem">
+![Image](https://github.com/user-attachments/assets/7dd62fea-941c-446d-972d-36b4238bc210)
 
 ## 하루 3개 질문으로 완성하는  맞춤형 IT 면접 준비 서비스
 
@@ -280,13 +280,11 @@
 
 ## 팀 회고
 ### 번다운 차트
- <img src ='Image/burndown-chart.png' width="500" style="margin:1rem">
-
+![Image](https://github.com/user-attachments/assets/511bf3f9-71c7-420e-b82c-8cc08baf4bb8)
 <br>
 
 ### 누적 흐름 다이어그램
- <img src ='Image/diagram.png' width="500" style="margin:1rem">
-
+![Image](https://github.com/user-attachments/assets/83fad93c-1736-4377-ada4-ceb905674619)
 <br>
 
 ### 팀 마무리 소감
